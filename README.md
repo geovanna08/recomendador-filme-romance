@@ -1,2 +1,2 @@
 # recomendador-filme-romance
-projeto da aula e pc Geovanna
+projeto da aula de pc Geovanna
