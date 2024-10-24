@@ -1,4 +1,4 @@
-//meu primeiro beijo, livre romance
+//o primeiro amor, livre romance
 // para todos os garotos que ja amei, 12 romance
 //por lugares incriveis, 14 ou mais romance
 
@@ -51,9 +51,9 @@ function geraRecomendacao(idade, gostaDeRomance, gostaDeFinalfeliz) {
     }
   } else {
     if ('gostaDefinalfeliz') {
-      return "meu primeiro beijo";
+      return "o primeiro amor";
     } else {
-      return "meu primeiro beijo";
+      return "o primeiro amor";
     }
   }
 }
